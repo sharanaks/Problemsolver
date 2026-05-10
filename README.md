@@ -1,6 +1,6 @@
 # Smart Farmer Land Assistant
 
-AI Powered Multilingual Land Record Verification System
+Powered Multilingual Land Record Verification System
 
 ---
 
